@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img align="left" src="https://github.com/guillaC/guillaC/assets/6315083/666f37e6-404a-45e4-9913-a6a04f8e7655"/>
+<img align="left" src="https://github.com/guillaC/guillaC/assets/6315083/e7e2d089-dd1f-420c-aba9-bba8c24b9c4c"/>
 
 ```diff
 🌱 Enthusiastic about continuous learning and self-improvement.
