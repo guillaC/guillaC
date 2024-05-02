@@ -5,6 +5,7 @@
 ⚙️ Developer primarily focused on .NET technologies.
 📚 Currently exploring Blazor.
 🤝 Open to collaborations and discussions.
+🎨 Also, check out my artistic page on Instagram: uglyteapot.
 ```
 
 <div align="right">
