@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/guillaC/guillaC/assets/6315083/e7e2d089-dd1f-420c-aba9-bba8c24b9c4c"/>
+<img width="38" height="38" align="left"  alt="help_book_cool_small-5" src="https://github.com/user-attachments/assets/742b36b1-1c92-4173-a00b-8163e6c58b57" />
 
 ```diff
 🌱 Always in pursuit of learning and continuous improvement.
